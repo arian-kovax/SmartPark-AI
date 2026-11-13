@@ -165,6 +165,4 @@ python app.py
 
 ---
 
-## Contact
 
-[eng23cs0367@dsu.edu.in](mailto:eng23cs0367@dsu.edu.in)
